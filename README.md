@@ -1,4 +1,4 @@
-# GitHub App Access Token Fetcher
+# GitHub App Access Token Helper
 
 This Node.js script is designed to fetch an access token for a GitHub App using GitHub App authentication. The script utilizes the `@octokit/auth-app` library for creating GitHub App authentication and the `node-fetch` library for making HTTP requests.
 
